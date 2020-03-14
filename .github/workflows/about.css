@@ -1,0 +1,46 @@
+* {
+	padding:0;
+	margin:0;
+	color:white;
+	background-color:white;
+	font-family:Arial;
+	}
+pre {
+	font-weight:bold;
+	font-size:15px;
+	font-style:none;
+	color:black;
+	}
+.button {
+  	background-color:red;
+  	border: none;
+  	color: white;
+  	padding: 20px;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+ 
+}
+.button1 {border-radius: 8px;}
+
+.table1 {
+	margin-left:20px;
+	}
+h1 {color:red;font-size:40px;}
+h6 {color:blue;font-size:20px;}
+.r2c1 {
+	font-size:20px;
+	color:blue;
+	}
+.outside {
+	background-color:black;
+	height:1vh;
+	}
+.footer {
+	margin-top:120px;
+	font-size:50px;
+	text-align:center;
+	background-color:rgb(192,192,192);
+	}
